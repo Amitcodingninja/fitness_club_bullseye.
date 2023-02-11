@@ -52,7 +52,7 @@ export const App = () => {
 
   return (
     <div className='wrapper'>
-      <h1>BookList App</h1>
+      <h1>Book Managment System</h1>
       <p>Add and view your books using local storage</p>
       <div className='main'>
 
